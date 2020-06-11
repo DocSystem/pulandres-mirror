@@ -1,0 +1,14 @@
+Package: com.pulandres.flow
+Section: Tweaks
+Installed-Size: 968
+Maintainer: Pulandres
+Architecture: iphoneos-arm
+Version: 1.1.4
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.nereid, ch.mdaus.sylph, org.s1ris.spinxi
+Description: Change the design of your player
+Name: Flow Free
+Author: Muirey03
+Depiction: https://repo.pulandres.me/index.php?pid=1509
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1509
+Icon: https://repo.packix.com/api/Packages/5d9a5275457ebf001a5f8f50/icon/download?size=medium
